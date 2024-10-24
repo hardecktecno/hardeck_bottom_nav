@@ -21,7 +21,7 @@ Para utilizar este paquete en tu proyecto Flutter, sigue los siguientes pasos:
 3. Guarda el archivo pubspec.yaml y ejecuta el siguiente comando en tu terminal para obtener las dependencias:
    ```
     flutter pub get
-
+   ```
 
 
 ## Uso
