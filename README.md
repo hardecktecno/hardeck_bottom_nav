@@ -18,6 +18,7 @@ Para utilizar este paquete en tu proyecto Flutter, sigue los siguientes pasos:
    ```yaml
    dependencies:
      hardeck_bottom_nav: ^0.0.1
+   ```
 3. Guarda el archivo pubspec.yaml y ejecuta el siguiente comando en tu terminal para obtener las dependencias:
    ```
     flutter pub get
@@ -26,9 +27,9 @@ Para utilizar este paquete en tu proyecto Flutter, sigue los siguientes pasos:
 
 ## Uso
 1. Importa el paquete en tu archivo Dart donde deseas usar la barra de navegación inferior:
-   ```
+    ```
     import 'package:hardeck_bottom_nav/hardeck_bottom_nav.dart';
-
+    ```
 2. Usa el widget HardeckBottomNav dentro de tu Scaffold para mostrar la barra de navegación inferior. Aquí tienes un ejemplo básico:
    ```
     import 'package:flutter/material.dart';
@@ -54,7 +55,7 @@ Para utilizar este paquete en tu proyecto Flutter, sigue los siguientes pasos:
         );
     }
     }
-
+   ```
 
 ## Contribución
 Si deseas contribuir a este proyecto, puedes hacerlo de las siguientes maneras:
