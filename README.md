@@ -1,39 +1,21 @@
-<!--
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
+# Hardeck Bottom Nav
 
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/tools/pub/writing-package-pages).
+**Hardeck Bottom Nav** es un paquete de Flutter que permite agregar una barra de navegación inferior altamente personalizable con soporte para múltiples íconos, animaciones y funciones adaptables a diversas aplicaciones.
 
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/to/develop-packages).
--->
+## Características
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+- Navegación inferior personalizable.
+- Animaciones suaves entre pestañas.
+- Soporte para múltiples íconos y títulos.
+- Fácil de integrar en cualquier proyecto Flutter.
 
-## Features
+## Instalación
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+Para utilizar este paquete en tu proyecto Flutter, sigue los siguientes pasos:
 
-## Getting started
+1. Abre el archivo `pubspec.yaml` en la raíz de tu proyecto Flutter.
+2. Añade la dependencia del paquete `hardeck_bottom_nav` como se muestra a continuación:
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
-
-## Usage
-
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
-
-```dart
-const like = 'sample';
-```
-
-## Additional information
-
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+   ```yaml
+   dependencies:
+     hardeck_bottom_nav: ^0.0.1
