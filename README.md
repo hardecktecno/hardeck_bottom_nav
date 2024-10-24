@@ -54,7 +54,6 @@ Para utilizar este paquete en tu proyecto Flutter, sigue los siguientes pasos:
         );
     }
     }
-En este ejemplo, HardeckBottomNav crea una barra de navegación inferior con tres íconos: Inicio, Buscar, y Configuración.
 
 
 ## Contribución

@@ -1,6 +1,6 @@
 name: hardeck_bottom_nav
 description: Un paquete Flutter para agregar una barra de navegación inferior personalizable con animaciones y soporte para múltiples iconos.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/hardecktecno/hardeck_bottom_nav
 
 environment:
